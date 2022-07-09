@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - this code will do the next  
- * willassign the last digit of random number 
+ * main - this code will do the next
+ * will print random num
  * Return: Always 0 (Success)
  */
 
