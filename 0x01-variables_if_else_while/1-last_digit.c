@@ -4,7 +4,7 @@
 
 /**
  * main - this code will do the next  
- * will assign the last digit of random number 
+ * willassign the last digit of random number 
  * Return: Always 0 (Success)
  */
 
